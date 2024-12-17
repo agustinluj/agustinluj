@@ -16,9 +16,11 @@ visualizations = ['matplotlib', 'seaborn', 'Power BI', 'Tableau', 'mishmash of t
 
 🚀 What I’m working on now:
 projects = [
+
     'Improving neural networks & predictive models',
     'Contributing to open-source projects',
     'Chasing the almost-perfect model (Yeah, I know)'
 ]
+
 📬 Let’s chat! Into data science, AI, or tech memes? I’m all ears!
 Data science never sleeps, but I do (sometimes)! 😴
