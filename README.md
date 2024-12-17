@@ -15,8 +15,8 @@ visualizations = ['matplotlib', 'seaborn', 'Power BI', 'Tableau', 'mishmash of t
 “Data science is 90% cleaning data... and the other 10% wishing someone had already done it for you.”
 
 🚀 What I’m working on now:
-projects = [
 
+projects = [
     'Improving neural networks & predictive models',
     'Contributing to open-source projects',
     'Chasing the almost-perfect model (Yeah, I know)'
