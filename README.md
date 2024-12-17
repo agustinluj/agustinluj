@@ -1,5 +1,3 @@
-## 👨‍💻 Data Geek | 🧠 ML Noob | 📊 Turning Data into Stories
-
 Welcome to my code-hacking lab! I'm a Jr Data Scientist passionate about turning messy data into insights and models that (almost always) work.
 
 💡 When not debugging, I’m learning more about stats, data viz, or ML trends.
